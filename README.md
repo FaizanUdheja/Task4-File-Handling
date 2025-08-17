@@ -11,5 +11,5 @@ In Task-3, I have created an console application which performs operation like f
 <img width="698" height="438" alt="image" src="https://github.com/user-attachments/assets/01739a4b-0774-4750-a00d-dcd1eb96cdae" />
 
 #### Output
-<img width="612" height="369" alt="image" src="https://github.com/user-attachments/assets/64f9a0ea-12b5-4c33-be46-d7ddffe32ee1" />
-<img width="519" height="336" alt="image" src="https://github.com/user-attachments/assets/b1974717-3e3a-4e50-9648-d16fcd7bfcd8" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/64f9a0ea-12b5-4c33-be46-d7ddffe32ee1" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/b1974717-3e3a-4e50-9648-d16fcd7bfcd8" />
